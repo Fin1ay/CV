@@ -1,6 +1,7 @@
 /*This is the alternate Cascading Style Sheet for all pages relating to my coursework project:
 Finlay Smith
 1703229
+
 It is identical in every way to the original but with the colours in it changed.
 
 Much of the styling could be broken down to individual IDs that would allow each part of each page to be formatted differently but I felt as though a consistant layout would be easier by using general statements and using IDs sparingly. I believe that this has worked however it would be something to keep in mind for future additions.
@@ -16,7 +17,7 @@ img { /*This tag will affect all images */
 }
 
 button{ /*This will affect all buttons.*/
-  padding: 9px 17px; /*This changes the size of the button*/
+  padding: 9px 16px; /*This changes the size of the button*/
   color: #grey; /*Changes the colour of the text in the button*/
   font-size: 14px; /*Changed the size of the text in the buttons*/
   background-color: darkgrey; /*Changes the colour of the button's background*/

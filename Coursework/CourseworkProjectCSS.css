@@ -9,13 +9,12 @@ Possible additions would include the use of bootstrap (or other premade styleshe
 
 
 img { /*This tag will affect all images */
- float:left; /*This makes all images default to the left side of the screen*/
  padding:2px; /*This creates padding around all images*/
  background-color:darkred; /*This changes the colour of the outside padding*/
 }
 
 button{ /*This will affect all buttons.*/
-  padding: 9px 17px; /*This changes the size of the button*/
+  padding: 9px 16px; /*This changes the size of the button*/
   color: #d8d6d6; /*Changes the colour of the text in the button*/
   font-size: 14px; /*Changed the size of the text in the buttons*/
   background-color: #663232; /*Changes the colour of the button's background*/
@@ -122,6 +121,7 @@ margin-bottom: 20px;
     width:119px;  /**/
     height:119px; /*Sets the dimensions of the image*/
     border:10;    /**/
+    float:left;
 }
 
 
