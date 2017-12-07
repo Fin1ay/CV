@@ -8,6 +8,7 @@ This was complimented by the use of the NoCoffee visual impairment simulator tha
 Possible additions would include the use of bootstrap (or other premade stylesheets) to add formatting however I chose to keep with my own style as bootstrapped websites tend to look too similar in my opinion*/
 
 
+
 img { /*This tag will affect all images */
  padding:2px; /*This creates padding around all images*/
  background-color:darkred; /*This changes the colour of the outside padding*/
@@ -20,6 +21,7 @@ button{ /*This will affect all buttons.*/
   background-color: #663232; /*Changes the colour of the button's background*/
   border-color: #663232;
 }
+
 
 body{ /*This will affect everything in the bodies of the pages*/
   font-family: Arial; /*All text will be set to Arial*/
