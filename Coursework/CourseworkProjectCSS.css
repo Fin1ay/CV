@@ -27,7 +27,7 @@ body{ /*This will affect everything in the bodies of the pages*/
   font-family: Arial; /*All text will be set to Arial*/
   background-color:#664444; /*Changes the colour of the entire background of the page to the chosen colour*/
   color: #d8d6d6; /*Changes the colour of the text on the screen to a light grey as it contrasts well with the red of the background*/
-  min-height: 100%;
+  font-size: 13pt;
 }
 
 header { /*Affects everything in the header of linked pages*/
@@ -112,6 +112,8 @@ text-align: center;
     height: 100%; /*Sets the section to continue until the content is filled*/
     display: inline-block; /*This allows the sections to be displayed side by side*/
     padding: 8px; /*Changes where the text begins in the section*/
+    min-height: 650px; /*Sets the minimum height of the center section to 650 pixels so that it extends to the bottom of the screen*/
+
 }
 
 .below-gap { /*Wherever this is used, there will be a gap placed below whatever uses it*/
@@ -137,4 +139,8 @@ margin-bottom: 20px;
 
 #CVelements{ /*Alters the list elements in the CV page*/
   margin-left: 10px
+}
+
+#ChangeFontColour{
+  color: Blue;
 }
