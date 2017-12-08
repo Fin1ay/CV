@@ -2,6 +2,7 @@
 Finlay Smith
 1703229
 
+I believe that there has to be an easier way of changing the style sheets and that this method is inefficient. I was unable to find a way of doing this so this was the only alternative I could think of.
 It is identical in every way to the original but with the colours in it changed.
 
 Much of the styling could be broken down to individual IDs that would allow each part of each page to be formatted differently but I felt as though a consistant layout would be easier by using general statements and using IDs sparingly. I believe that this has worked however it would be something to keep in mind for future additions.
